@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,13 +8,12 @@
 
 <table class="main" width="100%">
   <tbody><tr>
-    <td  valign="middle" align="center"> <h2><font color="black"> Armin Jamshidpey <font></h2>   </td><br><br>
+    <td  valign="middle" align="center"> <h2><font color="black"> Armin Jamshidpey <font></h2>   </td>
     <td bgcolor = "black" valign="top" align="center">
-    <h3> <font color="white"> Post-Doctoral Fellow, Institute for Quantum Computing,
-     <br>
-     and <a href= "https://cryptoworks21.uwaterloo.ca/about/">
-      <font color = "white">Department of Combinatorics and Optimization</font></a> </font></h3> 
-      <h3><a href="https://uwaterloo.ca/" class="header-link"> <font color="white"> University of Waterloo</font> </a></h3>
+    <h3> <font color="white"> Post-Doctoral Fellow, Institute for Quantum Computing
+ and out/">
+      <font color = "white">CryptoWorks21</font></a> </font></h3> 
+      <h3><a href="https://cs.uwaterloo.ca/" class="header-link"> <font color="white"> David R. Cheriton School of Computer Science</font> </a></h3>
       </td>
   </tr>
   <tr>
@@ -23,30 +21,31 @@
       <img src="uwaterloo.png" alt="" width="260" height="105" align="top">
     <img src="Armin.jpg" alt="" width="260" height="260" align="top">
 <div class="nav-bar">
- <ul class="nav-list" align = "center">
-<!--  <li> <font color="white">Contact: </font></li> --> 
-    <li>
- <font color="white">
-<!-- David R. Cheriton School of Computer Science -->
-<!-- University of Waterloo <br> -->
-<!-- Waterloo, Ontario, N2L 3G1 -->
-<!-- Canada -->
+  <ul class="nav-list">
+    <li> <font color="white">Contact: </font></li>
+    <li><font color="white">David R. Cheriton School of Computer Science
+University of Waterloo <br>
+Waterloo, Ontario, N2L 3G1
+Canada
+<br>
+<br> Office: DC2302B
+<br><br>
 email: 
 <br>
-armin(dot)jamshidpey<br>(at)uwaterloo(dot)ca </font><\li>
+armin(dot)jamshidpey<br>(at)uwaterloo(dot)ca </font>
 </div>
     </td>
     <td class="main-box" width="80%">
 
      
-      <p>Currently I am a Post-doc in Institute for Quantum Computing (IQC) and department of Combinatorics and Optimization  at University of Waterloo. I work under supervision of <a href = "https://cs.uwaterloo.ca/~mwg/">Mark Giesbrecht</a>, <a href = "https://djao.math.uwaterloo.ca/">David Jao</a>, <a href = "https://faculty.iqc.uwaterloo.ca/mmosca/">Michele Mosca</a> and 
+      <p>Currently I am a Post-doc in department of computer science at University of Waterloo. I work under supervision of <a href = "https://cs.uwaterloo.ca/~mwg/">Mark Giesbrecht</a>, <a href = "https://djao.math.uwaterloo.ca/">David Jao</a>, <a href = "https://faculty.iqc.uwaterloo.ca/mmosca/">Michele Mosca</a> and 
       	<a href= "https://cs.uwaterloo.ca/~eschost/">Éric Schost</a>. </p>
       <br>
       <p>I got my PhD in mathematics from Western University under joint supervision of <a href="http://gdenham.math.uwo.ca/nlemire/">Nicole Lemire</a> (department of mathematics, Western University) and 
       	<a href= "https://cs.uwaterloo.ca/~eschost/">Éric Schost</a> (department of computer science, University of Waterloo) in Aug 2017. For the last two years of my PhD studies, I was a visiting PhD student in department of computer science at University of Waterloo. I was also a visiting PhD student at Fields institute (University of Toronto) in Fall 2015. </p>
       <br>
       <h3>Research </h3>
-      <p> Post-Quantum Cryptography<br> <br> Computer Algebra      </p>
+      <p> Computer algebra <br> <br>Post-Quantum Cryptography      </p>
       <br>
       <h3>Publication</h3>
        
@@ -69,9 +68,9 @@ Data Structures and Data Management (CS240), Summer 2018, Department of Computer
 Calculus (Calc1000), Fall 2016, Department of Mathematics, Western University</p>
 <br>
 <h3>Events </h3>
-Special session <a href="ACA2020.html">"Symbolic and Exact Linear Algebra over Rings and Fields"</a>, in <a href="https://aca2020.sba-research.org/">ACA 2020,</a>
- 15-18 July 2020, Athens, Greece (jointly organized with Mark Giesbrecht and Éric Schost),
-<font color="red"> postponed due to COVID-19 pandemic.</font></p>
+Special session <a href="ACA2020.html">"Symbolic and Exact Linear Algebra over Rings and Fields"</a>, in <a href="https://aca2020.sba-research.org/">ACA 2020</a>
+, 15-18 July 2020, Athens, Greece (jointly organized with Mark Giesbrecht and Éric Schost)
+<font color="red">, postponed due to COVID-19 pandemic.</font></p>
 <br>
 <p>Minisymposium "Computational Aspects of Finite Groups and Their Representations", in <a href="https://mathsites.unibe.ch/siamag19/">SIAM AG19</a>, 9-13 July 2019, Bern, Switzerland (jointly organized with Mark Giesbrecht and Éric Schost).
  </p>
@@ -82,7 +81,7 @@ Special session <a href="ACA2020.html">"Symbolic and Exact Linear Algebra over R
 <p class="lastModified">
 Last modified on
   
-October 5, 2020.
+  Thursday, 16 April 2020.
 </p>
 
 

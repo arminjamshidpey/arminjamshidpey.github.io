@@ -1,0 +1,212 @@
+A {
+	color: #0000AA;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	text-decoration: none;
+}
+A:hover	{
+	text-decoration: underline;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	color : #770000;
+}
+A:visited {
+	text-decoration: none;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	color : #0000AA;
+}
+
+blockquote  { 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    margin-left: 30px;
+}
+
+body.assignment { 
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: 11pt;
+    color: black;
+    line-height: 15pt; 
+}
+
+dl	{  
+    text-decoration: none;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.correction {  
+    background-color: rgb(216,247,255); 
+}
+
+dd	{ 
+    text-decoration: none;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: black;
+    list-style-type : square;
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    margin-left: 25px;   
+}
+
+ol	{ 
+    text-decoration: none;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: black;
+    margin-top: 5px; 
+    margin-bottom: 5px;  
+}
+
+ul	{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    color: black;
+    list-style-type : square;
+    margin-top: 5px; 
+    margin-bottom: 5px;  
+}
+
+li { 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+}
+
+p { 
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
+
+p.bottomLeadingOnly { 
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+p.topLeadingOnly { 
+    margin-top: 5pt;
+    margin-bottom: 0px;
+}
+
+.sub { 
+vertical-align: sub; 
+}
+
+TD {
+	font-family: Verdana, Geneva, Arial, sans-serif; 
+	font-size: 10pt;
+}
+
+img.border {  
+    border: 1px solid;
+    color: #000000;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 16pt;
+	color:#000000;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-weight: bold;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 14pt;
+	color:#444444;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+h3 {
+	font-weight: bold;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 12pt;
+	color: #555555;
+	margin-top: 7px;
+	margin-bottom: 5px;
+}
+
+h4 {
+	font-weight: bold;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	color: #FFFFFF;
+	margin-top: 7px;
+	margin-bottom: 5px;
+}
+
+P.lastModified { 
+    color: #808080;
+    font-size: 8pt;
+   	font-family: Verdana, Geneva, Arial, sans-serif;
+}
+
+pre  { 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+	color: #238023;
+	font-family: Courier, monospace;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.main{
+   border-top: thin ridge #996666;
+}
+
+.nav-bar {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 12pt;
+	text-align: left;
+	vertical-align:top;
+}
+
+.header-box {
+	vertical-align:text-top;
+	padding: 0pt 0pt 10pt 20pt;
+	border-bottom: thin ridge #996666;
+}
+
+a.header-link {
+color:#555555;
+    	}
+a:visited.header-link {
+color:#555555;
+    	}
+		
+.photo-box {
+/*   vertical-align: text-top; */
+   padding : 10pt 10pt 15pt 10pt; 
+   border-bottom: thin ridge #996666;
+   border-right: thin ridge #996666;
+}
+
+
+.main-box {
+	vertical-align: top;
+	padding : 10pt 0pt 0pt 20pt;
+}
+
+.nav-box {
+	vertical-align: top;
+	border-right: thin ridge #996666;
+	padding : 0pt 20pt 10pt 10pt;
+}
+
+.nav-list {
+	list-style-type : none;
+	margin-left: -20pt;
+	padding-top: 0px;
+}
+
+
+.blurb {
+	font-family: "Lucida Sans", Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	text-align: right;
+	font-style: italic;
+	border-bottom-width: thin;
+	border-bottom-style: ridge;
+	border-bottom-color: #996666;
+
+}
